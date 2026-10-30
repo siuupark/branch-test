@@ -3,5 +3,5 @@ second edition
 third edition
 issue resloved
 Hotfix team's solution
-Newrunction added
+New function added
 
